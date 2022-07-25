@@ -57,6 +57,6 @@ None
 
 ## Connect with me:
 
-<a href = "facebook.com/phamtuandat.profile"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40px"/></a>
+<a href = "https://www.facebook.com/phamtuandat.profile.php?id=100010634414552"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40px"/></a>
 
 </p>
